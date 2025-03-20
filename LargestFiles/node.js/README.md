@@ -9,11 +9,11 @@
    ```bash
    git clone https://github.com/ianrastall/Multi-Lang-Windows-Tools.git
    cd Multi-Lang Windows Tools
+   ```
 
 3. **Run the Script**
    Execute the script by running:
 
    ```bash
    node LargestFiles.js
-
-The script will scan your drives, display progress, and output the results to largest_files.txt. Press Enter when prompted to exit.
+   ```
