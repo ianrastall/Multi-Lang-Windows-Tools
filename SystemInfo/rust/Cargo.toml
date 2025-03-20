@@ -1,0 +1,12 @@
+[package]
+name = "SystemInfo"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+wmi = "0.12.0"
+sys-locale = "0.2"
+encoding_rs = "0.8"
+codepage = "0.1"
+winapi = { version = "0.3", features = ["winnls"] }
+sysinfo = "0.29.0"
