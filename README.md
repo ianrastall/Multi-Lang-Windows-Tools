@@ -24,7 +24,7 @@ Each utility includes implementations in various programming languages, includin
 ## Project Motivation
 
 This is a "vibe coding" project crafted with assistance from:
-- ChatGPT (GPT-4o1 & GPT-3-mini-high)
+- ChatGPT o1 & o3-mini-high)
 - Grok 3
 - DeepSeek R1
 
